@@ -20,4 +20,6 @@ This solver uses the application of brute-force algorithm (recursion) to solve s
 ## Generator
 
 
-_This code is inspired by ScriptCandy on Youtube._
+
+#### References:
+ScriptCandy on Youtube
